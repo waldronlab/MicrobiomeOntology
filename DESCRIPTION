@@ -22,4 +22,4 @@ Suggests:
 URL: https://waldronlab.github.io/MicrobiomeOntology/
 BugReports: https://github.com/waldronlab/MicrobiomeOntology/issues/new/choose
 VignetteBuilder: knitr
-DockerImage: seandavi/buildabiocworkshop2020:latest
+DockerImage: kbeckenrode/microbiome-ontology:latest
