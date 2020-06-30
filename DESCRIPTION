@@ -19,7 +19,7 @@ Suggests:
     knitr,
     rmarkdown,
     pkgdown
-URL: https://waldronlab.github.io/MO/
+URL: 
 BugReports: https://github.com/waldronlab/MicrobiomeOntology/issues/new/choose
 VignetteBuilder: knitr
 DockerImage: kbeckenrode/microbiome-ontology:latest
