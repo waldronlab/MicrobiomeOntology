@@ -1,0 +1,100 @@
+Purpose
+The purpose of this document is to keep my thoughts and notes while building a microbiome ontology (MO). My goal is to create an ontology used for downstream analysis of microbiome data. A Microbiome Ontology builds a knowledge system for computational modelling of biological systems, which will range from molecular functions to organisms. The key feature is the automated reasoning.
+
+What do I want the microbiome ontology (MO) to be?
+
+We want the ontology used for analysis of microbiome data. First, I made a term list to describe microbiomes, bacterial communities, and bacterial physiology. 
+
+*Size
+Volume
+Surface area
+
+*Metabolic uptake mechanisms
+Iron
+Small molecules (expand)
+Secreted 
+
+*Shape
+Rod
+Spiral
+Spirochete
+Circular, coccus
+Filamentous
+Mycobacteria 
+Spores
+Curved rods (vibrio, caulobacter)
+Rod-coccus
+Corynebacteria (club)
+Spirella
+
+*Arrangements
+Diplo
+Staph
+Strep
+Tetrads
+Sarcinae (cube)
+
+*Biofilm forming conditions
+Time to assemble
+Biofilm size
+Transitional states
+
+*Environments
+Aquatic
+Terrestrial
+Host-engaged
+Mucous
+Epithelial
+Airborne
+Oxygen consumption 
+Anaerobic
+Facultative Anaerobic
+Aerobic
+pH
+Temperature
+Salinity
+
+
+
+Describe human living
+Household
+Domestic animals (pets)
+Family
+Non-family
+Roommates
+Dormitory
+
+*Extracellular filaments
+Flagellum 
+Pili, various
+Slime
+
+Secretion systems
+Type 1 - 9 (Gram-negative)
+Gram positive
+Mycobacterium
+
+
+Secondly, I looked at microbiome datasets and got a better sense of the type of data and analysis available.
+
+Population
+Sample
+Differential population abundance
+Diversity
+Presence 
+Absence
+Metabolic function
+Stains
+Case 
+Controls
+Statistical testing (expand)
+Protein secretion
+Twin study
+16S
+Metagenomic
+Pathway Abundance
+Enriched
+Gene Set Enrichment analysis
+
+
+Learn language on data modeling like: what is the difference between an Identity vs attribute? Sean said that the relationship between attributes shouldn't carry information. Ask him to give an example. 
