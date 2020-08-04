@@ -11,4 +11,14 @@ Ontologies are best when they repurpose and build upon other ontologies. MO will
   * Ontology of Host-Microbiome Interactions
   * Gene Ontology
   * Ontology of Biomedical Investigation
+  
+The MO will provide a physiological characterization of individual taxa associated with the human microbiome. For example, the genus of Lactobacillus can be characterized as an Gram positive, rod shaped, anaerobes that produce lactic acid. They are largely found in oral cavities, gastrointestinal tracts (GIT), and vaginas. Therefore, the MO will include the following characterization.
+
+  * Cell wall composition (Gram stain)
+  * Shape
+  * Respiration type
+  * Environmental location/s
+  * General Metabolism class?
+  * Size 
+
 
