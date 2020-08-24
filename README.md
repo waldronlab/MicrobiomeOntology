@@ -20,5 +20,7 @@ The MO will provide a physiological characterization of individual taxa associat
   * Environmental location/s
   * General Metabolism class?
   * Size 
+  
+Ideally, the Microbiome Ontology will provide information about the niche of microbes. Identifying microbes by physiological traits instead of merely taxa will provide new insight into understanding the microbial organ. 
 
 
